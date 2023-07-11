@@ -25,7 +25,7 @@ Python, Tableau, Redshift
 
 🔻 태블로 시각화 링크 
 
-[https://public.tableau.com/views/_16856931387450/1?:language=ko-KR&publish=yes&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/_16856931387450/1?:language=ko-KR&publish=yes&:display_count=n&:origin=viz_share_link)
+[https://public.tableau.com/app/profile/.13208461/viz/__16862389682980/1](https://public.tableau.com/app/profile/.13208461/viz/__16862389682980/1)
 
 ### 기여한 부분
 
