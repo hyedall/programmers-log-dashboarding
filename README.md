@@ -2,7 +2,7 @@
 
 ## 로그데이터 분석 대시보드 구축
 
-[PPT](https://drive.google.com/file/d/1W8ISiGAbiBkxj9eWRlJfa2SGUfnvGiuz/view?usp=sharing)
+[PPT](https://drive.google.com/file/d/1W8ISiGAbiBkxj9eWRlJfa2SGUfnvGiuz/view?usp=sharing)<br>
 [보고서](https://drive.google.com/file/d/1aCX1noZLkykmk-zTApxAyYe6HJT1ythB/view?usp=sharing)
 
 <aside>
