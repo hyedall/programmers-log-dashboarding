@@ -1,13 +1,12 @@
 # programmers-log-dashboarding
-[프로그래머스 프로젝트] 로그데이터 태블로 시각화
 
-## 서울시 상권 시각화
+## 로그데이터 분석 대시보드 구축
 
 [PPT](https://drive.google.com/file/d/1W8ISiGAbiBkxj9eWRlJfa2SGUfnvGiuz/view?usp=sharing)
 [보고서](https://drive.google.com/file/d/1aCX1noZLkykmk-zTApxAyYe6HJT1ythB/view?usp=sharing)
 
 <aside>
-🚌 로그 데이터 분석 대시보드
+📊 로그 데이터 분석 대시보드
 [Fake-Apache-Log-Generator](https://github.com/kiritbasu/Fake-Apache-Log-Generator)를 통해 사용자 방문 로그 생성 후, 
 S3적재 → Redshift 로드 → 태블로 대시보드 구축을 진행했습니다.
 
